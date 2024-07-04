@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car-model: MyString
+  plate: MyString
+  year: 1
+  brand: MyString
+  reindeer: 1
+
+two:
+  car-model: MyString
+  plate: MyString
+  year: 1
+  brand: MyString
+  reindeer: 1

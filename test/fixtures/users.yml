@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cpf: 1
+  age: 1
+  driver_license: MyString
+  car: 1
+
+two:
+  name: MyString
+  cpf: 1
+  age: 1
+  driver_license: MyString
+  car: 1
